@@ -28,7 +28,4 @@ Final capstone project for Meta Front-end developer program on Coursera, which c
 
 - Run 'npm start' on the reserve-a-table folder
 
-### Author
-
-- [Ruben Neto](https://github.com/RubenNeto)
 # Meta_Capstone_Project_Little_Lemon_website
